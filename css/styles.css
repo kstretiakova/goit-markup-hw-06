@@ -847,8 +847,15 @@ padding-bottom: 72px;
         padding: 72px 0;
     }
 
-    .footer_container {
+.footer_container {
         width: 584px;
+        margin-left: 108px;
+    }
+
+    .top-side {
+        display: flex;
+        flex-direction: row;
+        gap: 40px;
     }
 
     .logo-end {
@@ -860,7 +867,6 @@ padding-bottom: 72px;
     }
 
     .footer_second_box {
-        display: block;
         margin-bottom: 0;
     }
 
@@ -874,4 +880,14 @@ padding-bottom: 72px;
         width: 453px;
         gap: 24px;
     }
+
+    .tagline {
+        width: 264px;
+        height: 72px;
+    }
+
+    .top-side {
+margin-left: 12px;
+    }
+
 }
