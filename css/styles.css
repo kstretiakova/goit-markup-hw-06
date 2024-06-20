@@ -881,10 +881,12 @@ color: #F4F4FD;
     .footer-left-part {
         text-align: left;
         margin-right: 120px;
+        margin-left: auto;
     }
 
     .footer_second_box {
         min-width: 208px;
+        margin-right: auto;
     }
 
     .footer_text {
@@ -905,4 +907,3 @@ color: #F4F4FD;
         gap: 24px;
     }
 }
-
