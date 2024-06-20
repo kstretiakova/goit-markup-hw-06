@@ -1124,6 +1124,8 @@ color: #F4F4FD;
     color: #8e8f99;
     align-items: center;
     width: 256px;
+    display: flex;
+    align-items: center;
 }
 
 .agree-part {
@@ -1136,6 +1138,8 @@ color: #F4F4FD;
     align-items: center;
     justify-content: center;
     fill: transparent;
+    flex-shrink: 0;
+    margin-right: 7px;
 }
 
 .text-agree {
