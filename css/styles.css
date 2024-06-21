@@ -290,7 +290,7 @@ letter-spacing: 0.02em;
         screen and (min-resolution: 192dpi),
         screen and (min-resolution: 2dppx) {
             .first {
-                background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/Hero/Dark-bg2t.jpg);
+                background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/hero/Dark-bg2t.jpg);
             }
         }
 
