@@ -650,7 +650,6 @@ padding-bottom: 72px;
     .portfolio_block_head {
     text-transform: capitalize;
     color: #2e2f42;
-    margin-bottom: 72px;
     }
     
     .portfolio_block_list {
@@ -661,6 +660,7 @@ padding-bottom: 72px;
     .portfolio_block_group {
         width: calc((100% - 48px) / 3);
         max-width: 360px;
+        box-shadow: none;
     }
     
     
