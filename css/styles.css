@@ -222,7 +222,7 @@ letter-spacing: 0.02em;
     background-color: #2e2f42;
     padding: 72px 0px;
     margin: 0 auto;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/Hero/Dark-bg1m.jpg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/hero/Dark-bg1m.jpg);
     max-width: 320px;
     background-repeat: no-repeat;
     background-position: center;
@@ -234,7 +234,7 @@ letter-spacing: 0.02em;
         screen and (min-resolution: 192dpi),
         screen and (min-resolution: 2dppx) {
             .first {
-                background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/Hero/Dark-bg2m.jpg);
+                background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/hero/Dark-bg2m.jpg);
             }
         }
 
@@ -282,7 +282,7 @@ letter-spacing: 0.02em;
     .first {
         padding: 112px 0px;
         margin: 0 auto;
-        background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/Hero/Dark-bg1t.jpg);
+        background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/hero/Dark-bg1t.jpg);
         max-width: 768px;
     }   
     
@@ -308,7 +308,7 @@ letter-spacing: 0.02em;
     .first {
         padding: 188px 0px;
         margin: 0 auto;
-        background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/Hero/people-office1d.jpg);
+        background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/hero/people-office1d.jpg);
         max-width: 1440px;
     }  
     
@@ -316,7 +316,7 @@ letter-spacing: 0.02em;
         screen and (min-resolution: 192dpi),
         screen and (min-resolution: 2dppx) {
             .first {
-                background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/Hero/people-office2d.jpg);
+                background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),url(../images/hero/people-office2d.jpg);
             }
         }
 
